@@ -1,10 +1,57 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/116837478/232142011-a79e6b47-5c24-4f55-a29b-c314751dd646.png" width="670"/>
 </p>
+<h3 align="center">
+👋 Hi there, I'm Alvise!</a>
+</h3>
 
-### Hi there 👋
+<h2 align="center">
+ I'm a Junior Java Back-End Developer 💻
+</h2> 
+
+I'm a creative, proactive and enthusiast problem solver. I constantly develop new skills and knowledge! I love to code and take on challenges every day. If we have to spend part of our life working, the best choice is to do something that we are deeply passionate about!
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/alvisezingales/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Alvise Zingales | LinkedIn" width="21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+## 🔭 I'm currently working on
+
+- improving my Spring Boot skills
+- improving my Networking Knowledge
+
+## 🌱 I'm currently learning
+
+- Spring Framework is ginormous! :D
+
+## 💼 Technical Skills
+
+</br>
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+</br>
+</br>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</br>
+</br>
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+
+## 📈 GitHub Stats 
+
+[![Alvise's github stats](https://github-readme-stats.vercel.app/api?username=alvisezingales)](https://github.com/alvisezingales)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvisezingales&layout=compact)](https://github.com/alvisezingales)
 
 <!--
+### Hi there, I'm Alvise👋
 - ![bannerProfiloChiSono2](https://user-images.githubusercontent.com/116837478/232142011-a79e6b47-5c24-4f55-a29b-c314751dd646.png)
 - ![bannerProfileChiSono](https://user-images.githubusercontent.com/116837478/232140437-681403d9-deb7-4e6c-8b39-12fcf282bed7.png)
 **alvisezingales/alvisezingales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
