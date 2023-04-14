@@ -33,6 +33,7 @@ I'm a creative, proactive and enthusiast problem solver. I constantly develop ne
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 </br>
 </br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -47,8 +48,13 @@ I'm a creative, proactive and enthusiast problem solver. I constantly develop ne
 ## 📈 GitHub Stats 
 
 [![Alvise's github stats](https://github-readme-stats.vercel.app/api?username=alvisezingales)](https://github.com/alvisezingales)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvisezingales&layout=compact)](https://github.com/alvisezingales)
+
+### 📎 Thanks for Visiting my GitHub Profile!
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=alvisezingales&label=Profile%20Views&color=3&icon=5&pretty=true" />
+</a>
 
 <!--
 ### Hi there, I'm Alvise👋
