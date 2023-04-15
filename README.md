@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/116837478/232142011-a79e6b47-5c24-4f55-a29b-c314751dd646.png" width="670"/>
+  <img src="https://user-images.githubusercontent.com/116837478/232205896-3e32502c-3653-4436-8af6-5b47dcf27bbc.png" width="670"/>
 </p>
 <h3 align="center">
 👋 Hi there, I'm Alvise!</a>
