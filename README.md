@@ -60,6 +60,7 @@ I'm a creative, proactive and enthusiast problem solver. I constantly develop ne
 ### Hi there, I'm Alvise👋
 - ![bannerProfiloChiSono2](https://user-images.githubusercontent.com/116837478/232142011-a79e6b47-5c24-4f55-a29b-c314751dd646.png)
 - ![bannerProfileChiSono](https://user-images.githubusercontent.com/116837478/232140437-681403d9-deb7-4e6c-8b39-12fcf282bed7.png)
+- good example of readme https://github.com/AlbertoFerrara/pcd-actors/blob/master/README.md
 **alvisezingales/alvisezingales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
