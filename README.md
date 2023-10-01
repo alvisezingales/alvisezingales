@@ -13,7 +13,7 @@ I'm a creative, proactive and enthusiast problem solver. I constantly develop ne
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/alvisezingales/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Alvise Zingales | LinkedIn" width="22px"/></a>
+<a href="https://www.linkedin.com/in/alvisezingales/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Alvise Zingales | LinkedIn" width="22px"/>LinkedIn</a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -52,11 +52,12 @@ I'm a creative, proactive and enthusiast problem solver. I constantly develop ne
 
 ### 📎 Thanks for Visiting my GitHub Profile!
 
+<!--
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=alvisezingales&label=Profile%20Views&color=3&icon=5&pretty=true" />
 </a>
 
-<!--
+
 ### Hi there, I'm Alvise👋
 - ![bannerProfiloChiSono2](https://user-images.githubusercontent.com/116837478/232142011-a79e6b47-5c24-4f55-a29b-c314751dd646.png)
 - ![bannerProfileChiSono](https://user-images.githubusercontent.com/116837478/232140437-681403d9-deb7-4e6c-8b39-12fcf282bed7.png)
