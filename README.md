@@ -25,7 +25,7 @@ I'm a creative, proactive and enthusiast problem solver. I constantly develop ne
 ## 🌱 I'm currently learning
 
 - Improving my backend skills with Java
-- I'm studying from some Angular tutorials to be able to build an application frontend side too!
+- Studying from some Angular tutorials to be able to build an application frontend side too!
 
 ## 💼 Technical Skills
 
