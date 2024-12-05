@@ -19,13 +19,11 @@ I'm a creative, proactive and enthusiast problem solver. I constantly develop ne
 
 ## 🔭 I'm currently working on
 
-- improving my Spring Boot skills
-- improving my Networking Knowledge
+- improving my Java and PL/SQL skills through the iDempiere framework
 
 ## 🌱 I'm currently learning
 
-- Improving my backend skills with Java
-- Studying from some Angular tutorials to be able to build an application frontend side too!
+- How to build a Mobile App with Flutter
 
 ## 💼 Technical Skills
 
