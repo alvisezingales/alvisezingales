@@ -6,7 +6,7 @@
 </h3>
 
 <h2 align="center">
- I'm a Junior Java Back-End Developer 💻
+ I'm a Java Back-End Developer 💻
 </h2> 
 
 I'm a creative, proactive and enthusiast problem solver. I constantly develop new skills and knowledge! I love to code and take on challenges every day. If we have to spend part of our life working, the best choice is to do something that we are deeply passionate about!
